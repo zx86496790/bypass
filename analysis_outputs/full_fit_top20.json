@@ -1,0 +1,882 @@
+[
+  {
+    "total": 10.360211606792504,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 0,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 1.2
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.107609492354585,
+        "abs_err": 3.211138158854193,
+        "mean_err": 1.0151573347713576,
+        "bytes": 253020,
+        "target_bytes": 223652,
+        "gt10": 0.24994403915224403,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.25260211443792,
+        "abs_err": 3.0892498874793075,
+        "mean_err": 1.4505854042650217,
+        "bytes": 214494,
+        "target_bytes": 245030,
+        "gt10": 0.13418950773150656,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.366814085045501,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 1,
+      "edgeNoise": 0,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 1.2
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.162916620111786,
+        "abs_err": 3.216311357677998,
+        "mean_err": 1.0187348015424844,
+        "bytes": 254162,
+        "target_bytes": 223652,
+        "gt10": 0.2502651781081164,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.203897464933714,
+        "abs_err": 3.091736997396979,
+        "mean_err": 1.4493281815384693,
+        "bytes": 215933,
+        "target_bytes": 245030,
+        "gt10": 0.13462051919717438,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.367050916730388,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 1,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 1.2
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.114920642291808,
+        "abs_err": 3.211423262415677,
+        "mean_err": 1.016387413557448,
+        "bytes": 253089,
+        "target_bytes": 223652,
+        "gt10": 0.2501227323138284,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.2521302744385805,
+        "abs_err": 3.0892221281371235,
+        "mean_err": 1.4506750393928376,
+        "bytes": 214495,
+        "target_bytes": 245030,
+        "gt10": 0.134213664716308,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.369798063355276,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 3,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 1.2
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.128757907516328,
+        "abs_err": 3.211904228944307,
+        "mean_err": 1.0169493537369976,
+        "bytes": 253122,
+        "target_bytes": 223652,
+        "gt10": 0.25070904937781713,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.241040155838948,
+        "abs_err": 3.0894268267978093,
+        "mean_err": 1.448786132704065,
+        "bytes": 214635,
+        "target_bytes": 245030,
+        "gt10": 0.13447430586811304,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.370320344571223,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 1,
+      "edgeNoise": 1,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 1.2
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.1673321967974495,
+        "abs_err": 3.2157417864737545,
+        "mean_err": 1.0191674382480524,
+        "bytes": 254142,
+        "target_bytes": 223652,
+        "gt10": 0.2505328998911307,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.202988147773774,
+        "abs_err": 3.092271417709867,
+        "mean_err": 1.4489713362542096,
+        "bytes": 215986,
+        "target_bytes": 245030,
+        "gt10": 0.13464912615286032,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.376361581087735,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 0,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.8
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.107563440723365,
+        "abs_err": 3.2114073644475645,
+        "mean_err": 1.0191966905093794,
+        "bytes": 252854,
+        "target_bytes": 223652,
+        "gt10": 0.25006359187245,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.26879814036437,
+        "abs_err": 3.089511164341239,
+        "mean_err": 1.4506970773438843,
+        "bytes": 214247,
+        "target_bytes": 245030,
+        "gt10": 0.13380045313417807,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.378682085035107,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 3,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.4
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.129479737046456,
+        "abs_err": 3.211000800409701,
+        "mean_err": 1.0217539316735007,
+        "bytes": 252847,
+        "target_bytes": 223652,
+        "gt10": 0.2510899646937924,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.249202347988652,
+        "abs_err": 3.0906423045593976,
+        "mean_err": 1.449586279849769,
+        "bytes": 214480,
+        "target_bytes": 245030,
+        "gt10": 0.13455821960479172,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.379484672692879,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 1,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.8
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.114634373556802,
+        "abs_err": 3.2119966491322676,
+        "mean_err": 1.0198665248991856,
+        "bytes": 252958,
+        "target_bytes": 223652,
+        "gt10": 0.2501748776492374,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.264850299136076,
+        "abs_err": 3.0891746617810223,
+        "mean_err": 1.4510145086003103,
+        "bytes": 214284,
+        "target_bytes": 245030,
+        "gt10": 0.133933316550586,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.380400655467557,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 5,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 1.2
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.142526650366346,
+        "abs_err": 3.212591657085491,
+        "mean_err": 1.0171606907264394,
+        "bytes": 253270,
+        "target_bytes": 223652,
+        "gt10": 0.2510899646937924,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.237874005101212,
+        "abs_err": 3.091063992276546,
+        "mean_err": 1.448217384044354,
+        "bytes": 214878,
+        "target_bytes": 245030,
+        "gt10": 0.1346751902680408,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.38090766067948,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 5,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.8
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.142045187833319,
+        "abs_err": 3.211644774104711,
+        "mean_err": 1.0189257891327426,
+        "bytes": 253155,
+        "target_bytes": 223652,
+        "gt10": 0.25124830845619284,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.23886247284616,
+        "abs_err": 3.0907586395125204,
+        "mean_err": 1.448223953048993,
+        "bytes": 214733,
+        "target_bytes": 245030,
+        "gt10": 0.13450291282379895,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.383143862544495,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 5,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.4
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.138044653376226,
+        "abs_err": 3.2128148645577905,
+        "mean_err": 1.020794966236955,
+        "bytes": 253065,
+        "target_bytes": 223652,
+        "gt10": 0.2510759744818534,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.245099209168269,
+        "abs_err": 3.0912263102621416,
+        "mean_err": 1.4497858928294438,
+        "bytes": 214704,
+        "target_bytes": 245030,
+        "gt10": 0.13468154736930435,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.38398304236734,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 1,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.4
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.120780142220429,
+        "abs_err": 3.2117556359356825,
+        "mean_err": 1.0222955224538663,
+        "bytes": 252780,
+        "target_bytes": 223652,
+        "gt10": 0.25071540856506214,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.2632029001469105,
+        "abs_err": 3.090959312009073,
+        "mean_err": 1.453242036883054,
+        "bytes": 214256,
+        "target_bytes": 245030,
+        "gt10": 0.1347304970490336,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.384473539464782,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 0,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.4
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.120198960978742,
+        "abs_err": 3.211910588131552,
+        "mean_err": 1.021938772049422,
+        "bytes": 252825,
+        "target_bytes": 223652,
+        "gt10": 0.2506123897316932,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.264274578486041,
+        "abs_err": 3.090436122575084,
+        "mean_err": 1.452896422477693,
+        "bytes": 214187,
+        "target_bytes": 245030,
+        "gt10": 0.13471142574524297,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.384894094742833,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 1,
+      "edgeNoise": 5,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.8
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.190796747759288,
+        "abs_err": 3.21714928658398,
+        "mean_err": 1.019752059528776,
+        "bytes": 254294,
+        "target_bytes": 223652,
+        "gt10": 0.2513405166712453,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.194097346983545,
+        "abs_err": 3.0936867203545058,
+        "mean_err": 1.447567900198596,
+        "bytes": 216351,
+        "target_bytes": 245030,
+        "gt10": 0.13478580383002636,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.385969513348227,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 1,
+      "edgeNoise": 3,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 1.2
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.174420605862843,
+        "abs_err": 3.2182858853175693,
+        "mean_err": 1.0172545947247575,
+        "bytes": 254192,
+        "target_bytes": 223652,
+        "gt10": 0.2507472045012871,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.211548907485384,
+        "abs_err": 3.093088093318856,
+        "mean_err": 1.4490226168710685,
+        "bytes": 216069,
+        "target_bytes": 245030,
+        "gt10": 0.13516977274634404,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.386010054618307,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 1,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.117998804543555,
+        "abs_err": 3.2123358057853344,
+        "mean_err": 1.0226802532821884,
+        "bytes": 252852,
+        "target_bytes": 223652,
+        "gt10": 0.25040317247133276,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.2680112500747525,
+        "abs_err": 3.0906056452754447,
+        "mean_err": 1.453200715724841,
+        "bytes": 214306,
+        "target_bytes": 245030,
+        "gt10": 0.13507187338688556,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.387460073123163,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 1,
+      "edgeNoise": 0,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.4
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.168154024961185,
+        "abs_err": 3.216035368951565,
+        "mean_err": 1.0225570970225437,
+        "bytes": 253959,
+        "target_bytes": 223652,
+        "gt10": 0.2507510200136341,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.219306048161979,
+        "abs_err": 3.092938277632412,
+        "mean_err": 1.4496810006585956,
+        "bytes": 215878,
+        "target_bytes": 245030,
+        "gt10": 0.13522698665771588,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.387505485030605,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 1,
+      "edgeNoise": 5,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.4
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.187730972732981,
+        "abs_err": 3.2179615667680745,
+        "mean_err": 1.021968024310749,
+        "bytes": 254109,
+        "target_bytes": 223652,
+        "gt10": 0.25138884649430726,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.1997745122976236,
+        "abs_err": 3.093892478532069,
+        "mean_err": 1.447311709017675,
+        "bytes": 216278,
+        "target_bytes": 245030,
+        "gt10": 0.134950452752752,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.38801864311764,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 3,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0.8
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.135130205651727,
+        "abs_err": 3.211720660405835,
+        "mean_err": 1.0201213163348017,
+        "bytes": 252973,
+        "target_bytes": 223652,
+        "gt10": 0.2511764496403244,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.252888437465913,
+        "abs_err": 3.090296266347286,
+        "mean_err": 1.449366536049426,
+        "bytes": 214510,
+        "target_bytes": 245030,
+        "gt10": 0.13415263654417803,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  },
+  {
+    "total": 10.388837184290352,
+    "settings": {
+      "calibrated": true,
+      "phlegethonLight": true,
+      "brightness": -5,
+      "contrast": 0.97,
+      "blueShift": -1,
+      "chromaBlur": 1,
+      "grain": 0,
+      "edgeNoise": 5,
+      "resample": 0,
+      "lumaNoise": 0,
+      "learnedResidual": 0,
+      "jpegQuality": 0.9,
+      "doubleJpeg": false,
+      "writeExif": false,
+      "truthscanStrength": 1.0,
+      "residualScale": 1.0,
+      "chromaScale": 0
+    },
+    "rows": [
+      {
+        "pair": "snow_16",
+        "score": 5.1387342974658825,
+        "abs_err": 3.2126914963252378,
+        "mean_err": 1.0217674979396232,
+        "bytes": 253045,
+        "target_bytes": 223652,
+        "gt10": 0.2511134936865989,
+        "target_gt10": 0.24825122350762593
+      },
+      {
+        "pair": "bridge_30",
+        "score": 5.25010288682447,
+        "abs_err": 3.0919232604640006,
+        "mean_err": 1.4489338293567544,
+        "bytes": 214640,
+        "target_bytes": 245030,
+        "gt10": 0.134826489278113,
+        "target_gt10": 0.13448511294026105
+      }
+    ]
+  }
+]

@@ -1,0 +1,290 @@
+{
+  "source": {
+    "path": "C:\\Users\\zsen\\Desktop\\a19fcda2-abf4-4897-9f87-d1f2e7f013ef.png",
+    "format": "PNG",
+    "mode": "RGB",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 1807310,
+    "info": {},
+    "exif_count": 0,
+    "mean_rgb": [
+      55.1407,
+      53.2475,
+      47.8253
+    ],
+    "std_rgb": [
+      74.0287,
+      75.8347,
+      75.0099
+    ]
+  },
+  "suspect": {
+    "path": "C:\\Users\\zsen\\Downloads\\phlegethon-forged-bA0TPQiMp8h1DW1MMFc0U.jpg",
+    "format": "JPEG",
+    "mode": "RGB",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 212676,
+    "info": {
+      "jfif": 257,
+      "jfif_version": [
+        1,
+        1
+      ],
+      "jfif_unit": 0,
+      "jfif_density": [
+        1,
+        1
+      ]
+    },
+    "exif_count": 0,
+    "mean_rgb": [
+      51.6777,
+      50.3131,
+      45.0676
+    ],
+    "std_rgb": [
+      71.7684,
+      73.6969,
+      72.9231
+    ],
+    "jpeg": {
+      "layers": 3,
+      "layer": [
+        [
+          1,
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          3,
+          1,
+          1,
+          1
+        ]
+      ],
+      "qtables": {
+        "0": {
+          "sum": 592,
+          "first8": [
+            3,
+            2,
+            2,
+            3,
+            4,
+            6,
+            8,
+            10
+          ]
+        },
+        "1": {
+          "sum": 891,
+          "first8": [
+            3,
+            3,
+            4,
+            8,
+            16,
+            16,
+            16,
+            16
+          ]
+        }
+      }
+    }
+  },
+  "pair_metrics": {
+    "same_size": true,
+    "mean_diff_rgb": [
+      -3.4631,
+      -2.9344,
+      -2.7577
+    ],
+    "mean_abs_rgb": [
+      4.2779,
+      3.6505,
+      3.9329
+    ],
+    "median_abs_rgb": [
+      3.0,
+      3.0,
+      3.0
+    ],
+    "changed_gt3": 0.586591,
+    "changed_gt10": 0.120911,
+    "gray_diff_percentiles": [
+      -15.794,
+      -11.082,
+      -4.654,
+      -2.533,
+      -0.723,
+      1.772,
+      6.058
+    ],
+    "residual_std_source": 2.2408,
+    "residual_std_suspect": 1.8843,
+    "laplacian_std_source": 8.9632,
+    "laplacian_std_suspect": 7.5372,
+    "blockiness_source": 1.6456,
+    "blockiness_suspect": 1.9439,
+    "channel_fit": [
+      {
+        "channel": "R",
+        "gain": 0.967461,
+        "offset": -1.668849,
+        "correlation": 0.997931
+      },
+      {
+        "channel": "G",
+        "gain": 0.970711,
+        "offset": -1.374864,
+        "correlation": 0.99887
+      },
+      {
+        "channel": "B",
+        "gain": 0.970294,
+        "offset": -1.336976,
+        "correlation": 0.998061
+      }
+    ]
+  },
+  "regions": {
+    "upper_subject": {
+      "box": [
+        205,
+        184,
+        799,
+        799
+      ],
+      "mean_diff_rgb": [
+        -3.8629,
+        -3.0079,
+        -2.6497
+      ],
+      "mean_abs_rgb": [
+        5.3559,
+        4.2599,
+        4.8037
+      ],
+      "residual_std_source": 3.879,
+      "residual_std_suspect": 3.1163,
+      "laplacian_std_source": 15.5159,
+      "laplacian_std_suspect": 12.465
+    },
+    "face_center": {
+      "box": [
+        430,
+        430,
+        737,
+        799
+      ],
+      "mean_diff_rgb": [
+        -4.7731,
+        -3.4158,
+        -2.9705
+      ],
+      "mean_abs_rgb": [
+        6.7949,
+        5.1231,
+        6.0278
+      ],
+      "residual_std_source": 3.6918,
+      "residual_std_suspect": 3.3493,
+      "laplacian_std_source": 14.7671,
+      "laplacian_std_suspect": 13.3972
+    },
+    "bright_window": {
+      "box": [
+        492,
+        123,
+        1024,
+        1075
+      ],
+      "mean_diff_rgb": [
+        -5.5129,
+        -4.9972,
+        -4.7122
+      ],
+      "mean_abs_rgb": [
+        6.9568,
+        6.0042,
+        6.512
+      ],
+      "residual_std_source": 3.358,
+      "residual_std_suspect": 2.7811,
+      "laplacian_std_source": 13.4319,
+      "laplacian_std_suspect": 11.1245
+    },
+    "dark_clothing": {
+      "box": [
+        184,
+        799,
+        881,
+        1459
+      ],
+      "mean_diff_rgb": [
+        -2.7824,
+        -2.2234,
+        -2.4033
+      ],
+      "mean_abs_rgb": [
+        3.364,
+        2.8047,
+        3.1705
+      ],
+      "residual_std_source": 1.6574,
+      "residual_std_suspect": 1.4905,
+      "laplacian_std_source": 6.6298,
+      "laplacian_std_suspect": 5.9619
+    },
+    "left_wall": {
+      "box": [
+        0,
+        0,
+        307,
+        737
+      ],
+      "mean_diff_rgb": [
+        -3.4269,
+        -2.8619,
+        -2.7556
+      ],
+      "mean_abs_rgb": [
+        3.6486,
+        3.1269,
+        3.0839
+      ],
+      "residual_std_source": 0.9267,
+      "residual_std_suspect": 0.7471,
+      "laplacian_std_source": 3.707,
+      "laplacian_std_suspect": 2.9884
+    }
+  },
+  "defensive_flags": [
+    "global_channel_affine_darkening",
+    "broad_high_frequency_residual_suppression",
+    "jpeg_blockiness_increase",
+    "high_correlation_but_widespread_low_amplitude_changes",
+    "known_phlegethon_quant_table_sums",
+    "known_phlegethon_luma_first8",
+    "known_phlegethon_chroma_first8",
+    "jfif_without_exif"
+  ],
+  "risk_score": 100,
+  "heatmaps": {
+    "abs_diff_x8": "analysis_outputs\\defensive_forensics_a19\\abs_diff_x8.png",
+    "signed_luma_diff": "analysis_outputs\\defensive_forensics_a19\\signed_luma_diff_red_brighter_blue_darker.png"
+  }
+}

@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Image Texture Lab</title>
+    <link rel="stylesheet" href="styles.css?v=20260616-forge-panel" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <h1>Image Texture Lab</h1>
+            <p>上传图片后自动生成单张，后端按图片特征选择路线。</p>
+          </div>
+          <div class="top-actions">
+            <button id="processButton" type="button" disabled>生成单张</button>
+            <button id="downloadButton" type="button" disabled>下载单张</button>
+            <button id="candidatesButton" type="button" disabled>下载候选包</button>
+          </div>
+        </header>
+
+        <section class="preview-grid">
+          <label class="image-panel upload-panel">
+            <input id="imageInput" type="file" accept="image/*" />
+            <div class="panel-title">
+              <span>输入图片</span>
+              <strong id="imageName">选择文件或拖入图片</strong>
+            </div>
+            <img id="sourcePreview" alt="" />
+          </label>
+
+          <section class="image-panel">
+            <div class="panel-title">
+              <span>输出图片</span>
+              <strong id="statusText">等待上传。</strong>
+            </div>
+            <img id="outputPreview" alt="" />
+          </section>
+        </section>
+      </section>
+
+      <aside class="forge-panel">
+        <div class="panel-title">
+          <span>Forge 设置</span>
+          <strong>自动路线</strong>
+        </div>
+
+        <section class="control-section">
+          <label class="switch-row">
+            <input id="autoGenerate" type="checkbox" checked />
+            <span>上传后自动生成单张</span>
+          </label>
+          <label class="switch-row">
+            <input id="writeExif" type="checkbox" />
+            <span>写入 EXIF</span>
+          </label>
+          <label class="switch-row">
+            <input id="doubleJpeg" type="checkbox" />
+            <span>Double Pass</span>
+          </label>
+        </section>
+
+        <section class="control-section">
+          <label class="field">
+            <span>处理强度</span>
+            <select id="presetMode">
+              <option value="auto">自动判断</option>
+              <option value="quality">质量优先</option>
+              <option value="balanced">平衡</option>
+              <option value="score">分数优先</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>候选包</span>
+            <select id="candidateMode">
+              <option value="adaptive">自动候选</option>
+              <option value="score">低分探索</option>
+              <option value="quality">清晰探索</option>
+            </select>
+          </label>
+        </section>
+
+        <section class="control-section">
+          <div class="section-heading">Route E 微调</div>
+          <label class="range-field">
+            <span>降噪 <b id="denoiseValue">自动</b></span>
+            <input id="routeEDenoise" type="range" min="0" max="1" step="0.01" value="0" data-setting="routeEDenoise" />
+          </label>
+          <label class="range-field">
+            <span>锐化 <b id="sharpenValue">自动</b></span>
+            <input id="routeESharpen" type="range" min="0" max="0.2" step="0.005" value="0" data-setting="routeESharpen" />
+          </label>
+          <label class="range-field">
+            <span>重采样 <b id="resampleValue">自动</b></span>
+            <input id="routeEResample" type="range" min="0" max="7" step="1" value="0" data-setting="routeEResample" />
+          </label>
+        </section>
+
+        <section class="control-section">
+          <label class="field">
+            <span>可选 JSON 覆盖</span>
+            <textarea id="jsonSettings" spellcheck="false" placeholder='例如 {"routeESeed": 521}'></textarea>
+          </label>
+          <button id="resetButton" type="button">清空覆盖</button>
+        </section>
+
+        <section class="control-section compact">
+          <div class="section-heading">当前默认提交</div>
+          <pre>{
+  "route": "auto",
+  "autoRoute": true,
+  "writeExif": false
+}</pre>
+        </section>
+      </aside>
+    </main>
+
+    <script src="app.js?v=20260616-forge-panel"></script>
+  </body>
+</html>
